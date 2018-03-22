@@ -55,7 +55,8 @@ main {
 
 /*---------------------Styletile--------------------*/
 
-a {
+a,
+p {
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     margin: 0.5em 0 0.5em 0;
@@ -91,11 +92,11 @@ h2 {
     display: inline-block;
     width: 15vw;
     height: 15vw;
-    border: 5px solid black;
+    border: 2px solid black;
     margin-bottom: 3px;
     text-align: center;
     line-height: 15vw;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 
 #boks1 {
